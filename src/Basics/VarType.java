@@ -1,3 +1,5 @@
+package Basics;
+
 public class VarType {
     //Instance Variables
     int age;

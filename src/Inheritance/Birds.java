@@ -1,3 +1,5 @@
+package Inheritance;
+
 public class Birds extends Animal{
     //canFly() is a method.
     public void canFly() {

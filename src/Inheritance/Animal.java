@@ -1,5 +1,7 @@
+package Inheritance;
+
 public class Animal {
-        //Here Animal is the class and eatAll, sleep, eatVeg these three are methods.
+        //Here Inheritance.Animal is the class and eatAll, sleep, eatVeg these three are methods.
 
         //eatAll is a method.
         public void eatAll() {
@@ -18,7 +20,7 @@ public class Animal {
 
 
         void show() {
-            System.out.println("I am a method of Animal class.");
+            System.out.println("I am a method of Inheritance.Animal class.");
         }
 
         void show(String str) {

@@ -1,4 +1,6 @@
-public class Tests implements I1, I2{
+package Abstraction;
+
+public class Tests implements I1, I2 {
     //Interface supports multiple inheritance.
 
     public static void main(String[] args) {
